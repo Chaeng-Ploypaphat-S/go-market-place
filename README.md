@@ -40,3 +40,4 @@ A platform for local community to lend tools, furniture, and more.
 - HTTPS via Let's Encrypt
 - Data encryption (at rest & in transit)
 
+![alt text](image.png)
